@@ -19,8 +19,8 @@
 }
 
 body {
-    background: #f2f3f5;
-    color: #666666;
+    background: var(--background);
+    color: var(--text);
 }
 
 body, button, textarea, input {
